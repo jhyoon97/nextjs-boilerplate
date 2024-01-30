@@ -13,3 +13,5 @@
 
 - next.js (14.1.0)
 - styled-components
+- jotai
+- dayjs
