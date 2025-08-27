@@ -11,6 +11,7 @@
 
 ## 3. packages
 
-- next.js (14.1.0)
+- next.js
 - jotai
 - dayjs
+- tailwind

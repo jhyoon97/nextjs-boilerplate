@@ -4,6 +4,7 @@ import dayjs from "dayjs";
 import timezone from "dayjs/plugin/timezone";
 
 import JotaiProvider from "./JotaiProvider";
+import "./globals.scss";
 
 interface Props {
   children: React.ReactNode;
